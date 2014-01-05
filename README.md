@@ -4,8 +4,8 @@ SimpleSlide
 
 使用方法：
 
-1. HTML中定义
-	
+#####1.HTML中定义
+
 	<ul class="slide">
 		<li>
 			<img src="" />
@@ -13,8 +13,7 @@ SimpleSlide
 		....
 	</ul>
 
-2. 在`</body>`之前加入：
-
+#####2.在`</body>`之前加入：
 
 	<link rel="stylesheet" type="text/css" href="SimpleSlide.css" />
 	<script src="SimpleSlide.min.js"></script>
