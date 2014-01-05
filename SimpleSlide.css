@@ -1,0 +1,6 @@
+ul.slide {list-style-type:none;overflow:hidden;}
+ul.slide li {float:left;display:none;}
+ul.slide .display {display:inline-block;}
+.slide-control {height: 50px;margin:-70px 0 0 0;z-index: 1;position: absolute;text-align:right;}
+.slide-control .slide-button {width:20px;height:20px;display:inline-block;margin-right:20px;border:5px solid #EEE;border-radius:50px;-webkit-border-radius:50px;-moz-border-radius:50px;-o-border-radius:50px;}
+.slide-control .slide-button:hover {cursor: pointer;border-color:#CCC;}
